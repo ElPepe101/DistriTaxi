@@ -1,5 +1,9 @@
 <?php
 
+// http://www.aljtmedia.com/blog/websockets-for-php-ratchet-push-chat-application/
+// $ php bin/chat-server.php AndGoto http://localhost/DistriTaxi/[taxista || cliente]
+//
+
 define('TEMPLATE', 'template/');
 define('MODULES', TEMPLATE.'modules/');
 define('SECTIONS', TEMPLATE.'sections/');
