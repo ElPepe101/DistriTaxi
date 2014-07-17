@@ -16,4 +16,6 @@ First start server (ws://localhost:8080)
 $ php DistriTaxi/bin/chat-server.php
 ```
 
-Now yo can access http://localhost/DistriTaxi/taxista or http://localhost/DistriTaxi/cliente
+:boom:
+
+Now you can access http://localhost/DistriTaxi/taxista or http://localhost/DistriTaxi/cliente
