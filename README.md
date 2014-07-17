@@ -11,9 +11,9 @@ Makes use of:
 
 Server example taken from http://www.aljtmedia.com/blog/websockets-for-php-ratchet-push-chat-application/
 
+First start server (ws://localhost:8080)
 ```
 $ php DistriTaxi/bin/chat-server.php
 ```
 
-http://localhost/DistriTaxi/taxista
-http://localhost/DistriTaxi/cliente
+Now yo can access http://localhost/DistriTaxi/taxista or http://localhost/DistriTaxi/cliente
