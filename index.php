@@ -12,7 +12,7 @@ $app->config(array(
 	'templates.path' => MODULES
 ));
 
-$pdo = new PDO('mysql:dbname=HackDFTest;host=localhost', 'root', '');
+$pdo = new PDO('mysql:dbname=HackDFTest;host=localhost', 'ElPepe', '%1a2s3d4f%G_');
 $db = new NotORM($pdo);
 
 $app->get('/clients/requests', function() use ($app, $db) {
